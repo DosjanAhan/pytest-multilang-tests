@@ -1,0 +1,2 @@
+# pytest-multilang-tests
+course
